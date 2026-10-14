@@ -42,7 +42,7 @@ def preprocess_op():
     import os
     import boto3
 
-    REPO = "https://github.com/TCS-Edu-MLOps-0626/mlops-core-project.git"
+    REPO = "https://github.com/dheerajsudanagunta/mlops-core-project"
 
     os.system(f"git clone {REPO}")
 
@@ -73,7 +73,7 @@ def train_op():
     import os
     import boto3
 
-    REPO = "https://github.com/TCS-Edu-MLOps-0626/mlops-core-project.git"
+    REPO = "https://github.com/dheerajsudanagunta/mlops-core-project"
 
     os.system(f"git clone {REPO}")
 
